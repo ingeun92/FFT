@@ -1,5 +1,7 @@
 # Fast Fourier Transform (FFT)
 
+FFT에 대해 이번 준비를 통해 처음 접하게 되어 직접 구현이 아닌 구현이 되어 있는 코드를 분석하는 형식으로 진행하였다.
+
 ## Fourier Transform vs Discrete Fourier Transform
 
 교과서의 이론이나 실생활 상에서 대부분의 것들은 연속한 자료들이다.
@@ -59,3 +61,5 @@ O(Polynomial Multiply) = O(FFT) + O(Multiply) + O(IFFT) = O(NlogN) + O(N) + O(Nl
 [1] https://helloworldpark.github.io/
 
 [2] BENDAT, Julius S.; PIERSOL, Allan G. *Random data: analysis and measurement procedures*. John Wiley & Sons, 2011.
+
+[3] https://m.blog.naver.com/PostView.nhn?blogId=kks227&logNo=221633584963&proxyReferer=https:%2F%2Fwww.google.com%2F
